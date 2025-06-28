@@ -20,6 +20,4 @@
    If you enter anything that's not one of the valid card names, the game will exit with an error message.
 
 > 💡 Tip: All inputs are case-insensitive, so "Ace", "ace", or "ACE" will all be accepted as valid guesses.
-
-Have fun and good luck guessing the card!
    
